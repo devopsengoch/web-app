@@ -101,9 +101,9 @@
 	    </repository>
 	    
 	    <snapshotRepository>
-	      <id>nexus</id>
-	      <name>ACADA Learning Snapshot Nexus Repository </name>
-	      <url>http://172.31.85.41:8081/repository/new-project-snapshot/</url>
+	      <id>devopclone_SNAPSHOT</id>
+	      <name>devopclone Snapshot Nexus Repository </name>
+	      <url>http://52.14.47.156:8900/nexus/content/repositories/devopclone_SNAPSHOT</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
